@@ -21,9 +21,9 @@
           <li class="nav-item">
             <a class="nav-link" href="/appartment">Appartment Regression</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/mnist">Number Classification</a>
-          </li>
+<!--          <li class="nav-item">-->
+<!--            <a class="nav-link" href="/mnist">Number Classification</a>-->
+<!--          </li>-->
         </ul>
       </div>
     </div>
