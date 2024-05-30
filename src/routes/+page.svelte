@@ -1,2 +1,2 @@
-<h1>Welcome to the demo project</h1>
-<p>This demo shows use cases of simple "KI-Anwendungen".</p>
+<h1>Welcome to the Matthews KIA project</h1>
+<p>This project shows you what kind of restaurants you can expect in various circles in zurich.</p>
